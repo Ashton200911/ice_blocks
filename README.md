@@ -6,4 +6,4 @@ ashton painter
 * movement restriction
 * win/lose conditions
 * text
-[link to game](https://github.com/Ashton200911/ice_blocks/tree/main)
+  [link to game on browser](https://github.com/Ashton200911/ice_blocks/tree/main)

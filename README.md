@@ -6,4 +6,4 @@ ashton painter
 * movement restriction
 * win/lose conditions
 * text
-* link to the current exercize [exercize 3](https://gd.games/games/91e02e50-2d6a-40fe-b443-8ae2f26f229d)
+* link to the current game [ice blocks ver: 0.1](https://gd.games/games/91e02e50-2d6a-40fe-b443-8ae2f26f229d)
